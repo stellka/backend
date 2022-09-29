@@ -1,0 +1,1 @@
+rootProject.name = "zone.steluxa.ktor-sample"
