@@ -1,0 +1,1 @@
+web: ./build/install/zone.steluxa.ktor-sample/bin/zone.steluxa.ktor-sample
